@@ -49,7 +49,7 @@ To create a Team select the team button on the agent tab and create a new team c
 
 
 
-To create agents go to Admin Panel -> Agents -> Add New. Fill in the necessary details, such as the agent's name, email, assigned role, and department, to set up their profile and permissions. I created Mario and Luigi. Mario was put in SysAdmins with Supreme Admin power, and put in  online banking while Luigi was put in Support with view only.
+To create agents go to Admin Panel -> Agents -> Add New. Fill in the necessary details, such as the agent's name, email, assigned role, and department, to set up their profile and permissions. I created Mario and Luigi. Mario was put in SysAdmins with Supreme Admin power, and put in  online banking while Luigi was put in Support with all access.
 
 
 
